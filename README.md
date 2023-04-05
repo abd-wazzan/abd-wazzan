@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Abdulrahman Wazzan, an IT engineer and dedicated web developer with over 3 years of experience in Laravel development.
+I'm Abdulrahman Wazzan, a software engineer and dedicated web developer with over 3 years of experience in Laravel development.
 I specialize in building and maintaining SaaS applications APIs, with additional expertise in business analysis, project management, digital marketing, and .Net WinForms.
 
 
