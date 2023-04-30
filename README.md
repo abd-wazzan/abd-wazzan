@@ -7,7 +7,7 @@ I'm Abdulrahman Wazzan, a Full-stack Developer with a passion for creating effic
 [![Linkedin Badge](https://img.shields.io/badge/-abdulrahman--wazzan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abdulrahman-wazzan/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-wazzan.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wazzan.dev@gmail.com)](mailto:wazzan.dev@gmail.com)&nbsp;
 [![GitHub abd-wazzan](https://img.shields.io/github/followers/abd-wazzan?label=follow&style=social)](https://github.com/abd-wazzan)&nbsp;
-#![](https://komarev.com/ghpvc/?username=abd-wazzan&label=Profile+Views&style=flat&color=grey)
+<!-- ![](https://komarev.com/ghpvc/?username=abd-wazzan&label=Profile+Views&style=flat&color=grey) -->
 
 ```php
 <?php
