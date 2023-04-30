@@ -7,7 +7,7 @@ I'm Abdulrahman Wazzan, a Full-stack Developer with a passion for creating effic
 [![Linkedin Badge](https://img.shields.io/badge/-abdulrahman--wazzan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abdulrahman-wazzan/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-wazzan.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wazzan.dev@gmail.com)](mailto:wazzan.dev@gmail.com)&nbsp;
 [![GitHub abd-wazzan](https://img.shields.io/github/followers/abd-wazzan?label=follow&style=social)](https://github.com/abd-wazzan)&nbsp;
-![](https://komarev.com/ghpvc/?username=abd-wazzan&label=Profile+Views&style=flat&color=grey)
+#![](https://komarev.com/ghpvc/?username=abd-wazzan&label=Profile+Views&style=flat&color=grey)
 
 ```php
 <?php
@@ -110,8 +110,8 @@ class Abdulrahman extends Developer
 ![](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-wazzan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-wazzan&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-wazzan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Thanks for stopping by my profile!
 ```
