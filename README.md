@@ -1,8 +1,8 @@
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Abdulrahman Wazzan, a Full-stack Developer with a passion for creating efficient and user-friendly applications. With over 5 years of experience in software development, I specialize in using programming languages such as PHP, NodeJS, and ASP .NET Core, as well as design patterns, domain-driven design (DDD) architecture, and database design to develop scalable and high-performing applications.
+I'm Abdulrahman Wazzan, a skilled software engineer and full-stack developer with over five years of experience in software development, including 3 years of specialized experience in Laravel, I am committed to applying the best practices and principles of software engineering to create high-quality, scalable, and user-friendly applications. I have expertise in design patterns, domain-driven design (DDD) architecture, and databases, enabling me to write clean, modular, well-documented, efficient, and optimized code. I have a proven track record of collaborating with cross-functional teams to deliver projects that meet business requirements and exceed expectations. Additionally, I am always eager to learn and adopt new technologies and methodologies to enhance productivity and deliver superior user experiences.
 
-
+[![My Website](	https://img.shields.io/badge/wazzan.dev-555?style=flat&logo=About.me&logoColor=white)](https://wazzan.dev)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-@abd__wazzan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abd_wazzan)](https://twitter.com/abd_wazzan)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-abdulrahman--wazzan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abdulrahman-wazzan/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-wazzan.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wazzan.dev@gmail.com)](mailto:wazzan.dev@gmail.com)&nbsp;
@@ -38,6 +38,7 @@ class Abdulrahman extends Developer
             'OOP',
             'DDD',
             'TDD',
+            'Pest',
             'Docker',
             'VPS Hosting',
             'Jira',
@@ -48,8 +49,8 @@ class Abdulrahman extends Developer
     
     public function getGoal(): string
     {
-        return 'Write code that makes me enjoy as much as other
-                developers enjoy it when they read it';
+        return 'Write code that is as captivating and enjoyable for me to read 
+        as it is for other developers.';
     }
     
     public function getUsefulQuote(): string
@@ -64,7 +65,7 @@ class Abdulrahman extends Developer
 ```
 ### ⚡ Technologies
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;&nbsp;
-![](https://img.shields.io/badge/PHP-darkorchid?style=flat&logo=php&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
@@ -86,6 +87,8 @@ class Abdulrahman extends Developer
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)&nbsp;
 
 ### ✅ Currently Learning:
 
@@ -109,6 +112,7 @@ class Abdulrahman extends Developer
 ![](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-yellow?style=flat&logo=linux&logoColor=white)&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-wazzan&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-wazzan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
