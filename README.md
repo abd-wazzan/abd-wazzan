@@ -65,6 +65,8 @@ class Abdulrahman extends Developer
 ```
 ### ⚡ Technologies
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;&nbsp;
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -89,11 +91,6 @@ class Abdulrahman extends Developer
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)&nbsp;
-
-### ✅ Currently Learning:
-
-![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)&nbsp;
 
 ### 💻 Tools:
 ![PhpStorm](https://img.shields.io/badge/phpstorm-5C2D91?style=flat&logo=phpstorm&logoColor=white)&nbsp;
