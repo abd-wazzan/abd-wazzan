@@ -11,7 +11,7 @@ Apart from technical endeavors, I actively share my expertise and insights throu
 For collaboration or more detailed insights into my professional background, feel free to [schedule a meeting via Calendly](https://calendly.com/abd-wazzan).
 
 [![My Website](	https://img.shields.io/badge/wazzan.dev-555?style=flat&logo=About.me&logoColor=white)](https://wazzan.dev)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@abd__wazzan-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/abd_wazzan)](https://x.com/abd_wazzan)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@abd__wazzan-1ca0f1?style=flat&logo=x&logoColor=white&link=https://x.com/abd_wazzan)](https://x.com/abd_wazzan)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-abdulrahman--wazzan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abdulrahman-wazzan/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-wazzan.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wazzan.dev@gmail.com)](mailto:wazzan.dev@gmail.com)&nbsp;
 [![GitHub abd-wazzan](https://img.shields.io/github/followers/abd-wazzan?label=follow&style=social)](https://github.com/abd-wazzan)&nbsp;
