@@ -1,9 +1,17 @@
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Abdulrahman Wazzan, a skilled software engineer and full-stack developer with over five years of experience in software development, including three years of specialized experience in Laravel, I am committed to applying the best practices and principles of software engineering to create high-quality, scalable, and user-friendly applications. I have expertise in design patterns, domain-driven design (DDD) architecture, and databases, enabling me to write clean, modular, well-documented, efficient, and optimized code. I have a proven track record of collaborating with cross-functional teams to deliver projects that meet business requirements and exceed expectations. Additionally, I am always eager to learn and adopt new technologies and methodologies to enhance productivity and deliver superior user experiences.
+I am **Abdulrahman Wazzan**, a Senior Backend Developer specializing in Laravel and Node.js. Over a span of more than 5 years, I have established a reputation for developing scalable APIs and achieving customer satisfaction rates as high as 95%.
+
+My deployments on AWS not only guarantee high availability but are streamlined via CI/CD pipelines, a testament to my understanding of full software development life cycles. My skill set extends to proficient project and team management, always focused on meeting deadlines and prioritizing feature implementations effectively.
+
+The ability to translate intricate requirements into maintainable solutions is something I take pride in. I am equally committed to crafting robust documentation, fostering transparency, and facilitating easier maintenance. 
+
+Apart from technical endeavors, I actively share my expertise and insights through well-researched articles and guides, keeping myself continually updated with industry advancements. 
+
+For collaboration or more detailed insights into my professional background, feel free to [schedule a meeting via Calendly](https://calendly.com/abd-wazzan).
 
 [![My Website](	https://img.shields.io/badge/wazzan.dev-555?style=flat&logo=About.me&logoColor=white)](https://wazzan.dev)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@abd__wazzan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abd_wazzan)](https://twitter.com/abd_wazzan)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@abd__wazzan-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/abd_wazzan)](https://x.com/abd_wazzan)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-abdulrahman--wazzan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abdulrahman-wazzan/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-wazzan.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wazzan.dev@gmail.com)](mailto:wazzan.dev@gmail.com)&nbsp;
 [![GitHub abd-wazzan](https://img.shields.io/github/followers/abd-wazzan?label=follow&style=social)](https://github.com/abd-wazzan)&nbsp;
